@@ -12,8 +12,6 @@ description: Seja bem vindo(a) á minha biografia.
 >
 > A **Franjinha Systems** está constantemente evoluindo e prospera com a colaboração, há sempre espaço para uma melhoria.
 
-## :link: Links rápidos
+## :link: Link rápido
 
-> **Discord:** [**https://discord.gg/SQUDj3DVU7**](https://discord.gg/dgbpUmJU7C)
->
-> **Youtube:** [**https://youtube.com/@franjinha15**](https://youtube.com/@franjinha15)
+> **WebSite:** [**http://www.franjinha.wuaze.com**](http://www.franjinha.wuaze.com)
