@@ -10,7 +10,7 @@ description: Seja bem vindo(a) á minha biografia.
 
 > O objetivo da **Franjinha Systems** é fornecer à comunidade os melhores produtos, preços e qualidade.
 >
-> A **Franjinha Systems** está constantemente evoluindo e prospera com a colaboração, há sempre espaço para uma melhoria.
+> A **Franjinha Systems** está constantemente a evoluir e prospera com a colaboração, há sempre espaço para uma melhoria.
 
 ## :link: Link rápido
 
